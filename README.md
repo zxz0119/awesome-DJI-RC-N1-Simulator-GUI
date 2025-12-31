@@ -5,7 +5,9 @@
 > 🎮 将你的大疆 RC-N1 遥控器变身为电脑上的 Xbox 360 手柄，畅玩各类飞行模拟器。
 
 ---
-
+<p align="center">
+  <img src="screenshot.png" alt="软件界面预览" width="600">
+</p>
 ## 📖 Introduction (简介)
 
 This application allows you to use the **DJI RC-N1** remote controller (compatible with Mini 2/3, Air 2S, Mavic 3, etc.) as a standard **Xbox 360 Controller** on Windows.
