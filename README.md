@@ -99,7 +99,7 @@ To run this simulator, you **MUST** install the virtual gamepad driver first.
 
 ## 📥 App Download (软件下载)
 
-Go to the  **[download](https://github.com/zxz0119/DJI-RC-N1-Simulator-GUI/releases/tag/v2.0)**  page to download the simulator:
+Go to the  **[download](https://github.com/zxz0119/DJI-RC-N1-Simulator-GUI/releases)**  page to download the simulator:
 前往右侧 **[下载](https://github.com/zxz0119/DJI-RC-N1-Simulator-GUI/releases/tag/v2.0)** 页面下载模拟器主程序：
 
 * **DJI_Sim_VIP.exe**
