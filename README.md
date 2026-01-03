@@ -8,9 +8,7 @@
 <p align="center">
   <img src="unnamed.jpg" alt="背景" width="600">
 </p
-<p align="center">
-  <img src="screenshot.png" alt="软件界面预览" width="600">
-</p>
+
 
 ## 🚀 v2.0 Update: Keyboard Mode (2.0 重磅更新：键盘模式)
 
@@ -61,6 +59,9 @@
 
 
 ---
+<p align="center">
+  <img src="screenshot.png" alt="软件界面预览" width="600">
+</p>
 
 ## 📖 Introduction (简介)
 
